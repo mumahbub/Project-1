@@ -1,0 +1,30 @@
+body {
+    margin-bottom: 0px;
+}
+
+/* main {
+    margin-bottom: 0;
+} */
+
+/* .carousel-item {
+    background: linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7));
+} */
+
+/* .carousel-item::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.6);
+} */
+
+.join {
+    background-color: #198754;
+}
+
+footer {
+    height: 250px;
+}
